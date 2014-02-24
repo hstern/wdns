@@ -24,7 +24,7 @@ libwdns.so.0 libwdns0 #MINVER#
  wdns_print_rrset_array@Base 0.2
  wdns_rcode_to_str@Base 0.2
  wdns_rdata_to_str@Base 0.5
- wdns_reverse_name@Base 0.2
+ wdns_reverse_name@Base 0.6
  wdns_rr_to_str@Base 0.5
  wdns_rrclass_to_str@Base 0.2
  wdns_rrset_array_to_str@Base 0.2
